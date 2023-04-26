@@ -1,4 +1,4 @@
-##Google Campeonas
+##Campeonas
 
 ##How to run/test this project
 
